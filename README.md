@@ -27,7 +27,7 @@
 ## Installation 🚀
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/BudgetApp.git
+git clone git@github.com:HPOGFD/BudgetApp.git
 ```
 2. Navigate to the project directory:
 ```
