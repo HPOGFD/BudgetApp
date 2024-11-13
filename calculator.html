@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/calculator.css">
+    <title>Calculator</title>
+   
+</head>
+<body>
+    <header>
+        <h1>Calculator</h1>
+    </header>
+    <main>
+        <div class="form-group">
+            <label for="firstNum-el">First Number</label>
+            <input type="number" id="firstNum-el" class="form-control" placeholder="Enter Number">
+        </div>
+        <div class="form-group">
+            <label for="secondNum-el">Second Number</label>
+            <input type="number" id="secondNum-el" class="form-control" placeholder="Enter Number">
+        </div>
+        
+        <div>
+            <button class="btn btn-success" onclick="sum()">Add</button>
+            <button class="btn btn-warning" onclick="sub()">Subtract</button>
+            <button class="btn btn-primary" onclick="mult()">Multiply</button>
+            <button class="btn btn-info" onclick="div()">Divide</button>
+     
+           
+            <button class="btn btn-danger" onclick="goBack()">Back to main page</button>
+        </div>
+        
+        <span id="sum-el"></span>
+        
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Memory</th>
+                </tr>
+            </thead>
+            <tbody id="memoryTable-el">
+                <!-- Memory rows will populate here -->
+            </tbody>
+        </table>
+    </main>
+
+    <script src="assets/js/calculator.js"></script>
+   
+</body>
+</html>
