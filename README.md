@@ -7,8 +7,9 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
+7. [Acknowledgments](#Acknowledgments)
 8. [Contact](#contact)
+   
 
 ## Project Overview 🌟
 **BudgetApp** is a front-end budgeting tool that helps users manage and track their expenses and income. Built as a collaborative group project, this app provides users with a user-friendly interface to calculate budgets, view financial summaries, and make informed decisions about their finances.
@@ -43,8 +44,8 @@ cd BudgetApp
 ## Contributing 🤝
 Contributions are welcome! If you'd like to improve the app, please fork the repository and create a pull request.
 
-## License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
+##Acknowledgments 🙌
+Thanks to ChatGPT for providing guidance and code solutions throughout the development of this project.
 
 ## Contact 📩
 For questions or collaboration, feel free to reach out:
