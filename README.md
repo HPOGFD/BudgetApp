@@ -49,5 +49,5 @@ Thanks to ChatGPT for providing guidance and code solutions throughout the devel
 
 ## Contact 📩
 For questions or collaboration, feel free to reach out:
-* **Your Name**: [LinkedIn Profile] https://www.linkedin.com/in/harry-oyarvide-25a1585a/
+* **Your Name**: https://www.linkedin.com/in/harry-oyarvide-25a1585a/
 * **Email**: poyarvide87@yahoo.com
